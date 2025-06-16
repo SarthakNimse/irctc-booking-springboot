@@ -42,3 +42,11 @@ This is a backend service for an IRCTC-like railway ticket booking system, built
 
 ## 📁 Project Structure
 
+com.irctc.booking
+│
+├── controller # REST controllers
+├── service # Business logic
+├── repository # Spring Data JPA interfaces
+├── entity # JPA Entities (User, Train, Booking)
+└── IRCTCBookingApplication.java
+
