@@ -20,6 +20,6 @@ public class Train {
     private String  source;
     private String destination;
     private int totalSeats;
-    private double fare;
+    private float fare;
 
 }
